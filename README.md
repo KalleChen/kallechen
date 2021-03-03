@@ -6,7 +6,7 @@
 export default {
     name: 'Kalle',
     country: 'Taiwan',
-    college: 'NCTU' || 'NYCU'
+    college: 'NCTU' || 'NYCU',
     techs: ['js', 'python','php', 'react', 'docker'],
     interests: ['coding', 'music', 'basketball', 'football', 'pokemon']
 }
