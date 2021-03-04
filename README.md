@@ -11,10 +11,10 @@ export default {
     interests: ['coding', 'music', 'basketball', 'football', 'pokemon']
 }
 ```
-<img align='left' width='450' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
-<img align='left' width='450' src='./images/stat.svg'/>  
+<img align='left' width='550' height='200' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
+<img align='left' width='550' height='200' src='./images/stat.svg'/>  
 
-<img width='200' src='https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=default' alt=''/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 [![](./profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
