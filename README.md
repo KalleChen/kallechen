@@ -8,14 +8,12 @@ export default {
     country: 'Taiwan',
     college: 'NCTU' || 'NYCU',
     techs: ['js', 'react', 'python', 'docker'],
-    interests: ['coding', 'music', 'basketball', 'football', 'pokemon']
+    interests: ['coding', 'block chain', 'music', 'basketball']
 }
 ```
-<img align='left' width='500' height='200' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
-<img align='left' width='500' height='200' src='./images/stat.svg'/>  
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+<img  width='60%' align='left' height='150' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
+<img  width='60%' align='left' height='100' src='./images/stat.svg'/>  
+<img  width ='30%' src='https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=default'>
 
 [![](./profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
