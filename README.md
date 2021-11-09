@@ -11,8 +11,8 @@ export default {
     interests: ['coding', 'block chain', 'music', 'basketball']
 }
 ```
-<img  width='67%' align='left' height='150' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
-<img  width='67%' align='left' height='100' src='./images/stat.svg'/>  
+<img  width='67%' align='left' height='200' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
+<img  width='67%' align='left' height='200' src='./images/stat.svg'/>  
 <img  width ='30%' src='https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=default'>
 
 [![](./profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
