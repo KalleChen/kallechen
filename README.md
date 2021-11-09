@@ -17,5 +17,5 @@ export default {
 
 <img width="48%" align='left' src="./profile-summary-card-output/monokai/1-repos-per-language.svg">
 <img width="48%" src="./profile-summary-card-output/monokai/2-most-commit-language.svg">
-<img width="48%" src="./profile-summary-card-output/monokai/3-stats.svg">
-<img width="48%" align='right' src="./profile-summary-card-output/monokai/4-productive-time.svg">
+<img width="48%" align='left' src="./profile-summary-card-output/monokai/3-stats.svg">
+<img width="48%" src="./profile-summary-card-output/monokai/4-productive-time.svg">
