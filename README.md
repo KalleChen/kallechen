@@ -1,6 +1,5 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=kallechen)
 [![wakatime](https://wakatime.com/badge/user/e5887fe1-a295-427e-b6ee-236bad55b1fe.svg)](https://wakatime.com/@e5887fe1-a295-427e-b6ee-236bad55b1fe)
 
 ```js
