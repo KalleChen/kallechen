@@ -1,14 +1,16 @@
 # Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=kallechen)
+[![wakatime](https://wakatime.com/badge/user/e5887fe1-a295-427e-b6ee-236bad55b1fe.svg)](https://wakatime.com/@e5887fe1-a295-427e-b6ee-236bad55b1fe)
 
 ```js
 export default {
     name: 'Kalle',
     country: 'Taiwan',
     college: 'NCTU' || 'NYCU',
-    techs: ['js', 'react', 'python', 'docker'],
-    interests: ['coding', 'block chain', 'music', 'basketball']
+    major: 'computer science',
+    techs: ['js', 'ts', 'react', 'python', 'docker'],
+    interests: ['coding', 'blockchain', 'music', 'basketball']
 }
 ```
 <img  width='67%' align='left' height='170' src='./profile-summary-card-output/monokai/0-profile-details.svg'/> 
