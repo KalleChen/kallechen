@@ -10,7 +10,7 @@ export default {
     major: 'computer science',
     techs: ['js', 'ts', 'react', 'python', 'docker', 'chaincode', 'hyperledger fabric'],
     interests: ['coding', 'blockchain', 'music', 'basketball'],
-    address: kallechen.eth
+    address: 'kallechen.eth'
 }
 ```
 <img  width='67%' align='left' height='170' src='https://github-readme-stats.vercel.app/api?username=kallechen&theme=onedark'/> 
