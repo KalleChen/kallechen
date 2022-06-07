@@ -14,7 +14,7 @@ export default {
 }
 ```
 <img  width='67%' align='left' height='170' src='https://github-readme-stats.vercel.app/api?username=kallechen&theme=radical&show_icons=true'/> 
-<img  width='67%' align='left' height='170' src='https://github-readme-stats.vercel.app/api/wakatime?username=kalle&layout=compact&theme=radical'/>  
+<img  width='67%' align='left' height='170' src='https://github-readme-stats.vercel.app/api/wakatime?username=kalle&layout=compact&theme=radical&langs_count=5'/>  
 <img  width ='30%' src='https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=default'>
 
 <img width="48%" align='left' src="./profile-summary-card-output/monokai/1-repos-per-language.svg">
