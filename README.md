@@ -13,7 +13,7 @@ export default {
     address: 'kallechen.eth'
 }
 ```
-<img  width='48%' align='left' height='170' src='https://github-readme-stats.vercel.app/api?username=kallechen&theme=radical&show_icons=true'/> 
+<img  width='48%' align='left' height='170' src='https://github-readme-stats.vercel.app/api?username=kallechen&theme=radical&show_icons=true&include_all_commits=true&count_private=true'/> 
 <img  width='48%' height='170' src='https://github-readme-stats.vercel.app/api/wakatime?username=kalle&theme=radical&langs_count=5'/>  
 <img  width='48%' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kallechen&langs_count=5&layout=compact&theme=radical'/> 
 <img  width ='48%' src='https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=novatorem'>
