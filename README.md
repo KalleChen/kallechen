@@ -8,7 +8,7 @@ export default {
     country: 'Taiwan',
     college: 'NCTU' || 'NYCU',
     major: 'computer science',
-    techs: ['js', 'ts', 'react', 'python', 'docker', 'smart contract', 'hyperledger fabric'],
+    techs: ['vim', 'js', 'ts', 'react', 'python', 'docker', 'smart contract', 'hyperledger fabric'],
     interests: ['coding', 'blockchain', 'music', 'basketball'],
     address: 'kallechen.eth'
 }
