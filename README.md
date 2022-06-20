@@ -2,6 +2,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/e5887fe1-a295-427e-b6ee-236bad55b1fe.svg)](https://wakatime.com/@e5887fe1-a295-427e-b6ee-236bad55b1fe)
 
+[![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/kalle_chen)
+[![discord](https://badgen.net/badge/icon/discord?icon=discord&label=&color=1D9BF0)](https://discordapp.com/users/429537262079049738/)
+[![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label=&color=#0088cc)](https://t.me/kallechen)
+
 ```js
 export default {
     name: 'Kalle',
