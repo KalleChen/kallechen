@@ -5,6 +5,7 @@
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/kalle_chen)
 [![discord](https://badgen.net/badge/icon/discord?icon=discord&label=&color=1D9BF0)](https://discordapp.com/users/429537262079049738/)
 [![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label=&color=#0088cc)](https://t.me/kallechen)
+[![medium](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@kallechen)
 
 ```js
 export default {
