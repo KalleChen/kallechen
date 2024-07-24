@@ -21,7 +21,7 @@ export default {
 <img  width='48%' align='left' height='170' src='https://github-readme-stats.vercel.app/api?username=kallechen&theme=radical&show_icons=true&include_all_commits=true&count_private=true'/> 
 <img  width='48%' height='170' src='https://github-readme-stats.vercel.app/api/wakatime?username=kalle&theme=radical&langs_count=5'/>  
 <img  width='48%' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kallechen&langs_count=5&layout=compact&theme=radical'/> 
-<img  width ='48%' src='https://spotify-github-profile.vercel.app/api/view?uid=chen1082yo&cover_image=true&theme=novatorem'>
+<img  width ='48%' src='https://spotify-github-profile.kittinanx.com/api/view?uid=chen1082yo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)%5D(https://github.com/kittinan/spotify-github-profile'>
 <!-- 
 <img width="48%" align='left' src="./profile-summary-card-output/monokai/1-repos-per-language.svg">
 <img width="48%" src="./profile-summary-card-output/monokai/2-most-commit-language.svg">
